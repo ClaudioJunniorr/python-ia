@@ -21,7 +21,9 @@ num1 = int(input(" Digite o primeiro numero: "))
 num2 = int(input(" Digite o segundo numero: "))
 soma = num1+num2
 subracao = num1-num2
+multiplicacao = num1*num2
 divisao = num1/num2
 print(f" A soma dos numeros {num1}+{num2} é igual a : {soma}")
-print(f" A subtração dos numeros {num1}+{num2} é igual a : {subracao}")
-print(f" A divisao dos numeros {num1}+{num2} é igual a : {divisao}")
+print(f" A subtração dos numeros {num1}-{num2} é igual a : {subracao}")
+print(f" A soma dos numeros {num1}*{num2} é igual a : {soma}")
+print(f" A divisao dos numeros {num1}/{num2} é igual a : {divisao}")
