@@ -27,3 +27,4 @@ print(f" A soma dos numeros {num1}+{num2} é igual a : {soma}")
 print(f" A subtração dos numeros {num1}-{num2} é igual a : {subracao}")
 print(f" A soma dos numeros {num1}*{num2} é igual a : {soma}")
 print(f" A divisao dos numeros {num1}/{num2} é igual a : {divisao}")
+# Aprenderemos divisão de números inteiros. que é feito com //
